@@ -1,0 +1,237 @@
+#div1{
+color: white;
+background-color: cornflowerblue;
+height:500px;
+width: 100%;}
+
+a{
+color: white;
+text-decoration: none;
+margin-right: 20px;
+}
+#logo{
+    font-size: 25px;
+    padding-right: 30px;
+}
+
+#h1{
+margin-top: 150px;
+margin-left: 40px;
+
+}
+#font{
+    font-size: 60px;
+    }
+
+#button1{
+
+color: white;
+background-color:cornflowerblue;
+border: 2px solid black;
+border-radius: 10px;
+}
+
+ #button1:hover{
+
+background-color:darkblue;
+ }
+
+#div2{
+height: 300px;
+width: 100%;
+}
+#center{
+    text-align: center;
+}
+
+#c1{
+display: flex;
+}
+
+.card1{
+    text-align: center;
+height: 200px;
+width: 200px;
+border: 2px solid black;
+margin-right: 70px;
+margin-left: 70px;
+}
+
+.card2{
+text-align: center;
+height: 200px;
+width: 200px;
+border: 2px solid black;
+margin-right: 70px;
+margin-left: 70px;
+}
+
+.card3{
+text-align: center;
+height: 200px;
+width: 200px;
+border: 2px solid black;
+margin-right : 70px;
+margin-left: 70px;
+}
+        
+
+#div3{
+height: 400PX;
+width: 100%;
+
+}
+
+#box{
+width: 270px;
+height: 330px;
+border: 2px solid black;
+background-color:darkgray;
+}
+
+#flex2{
+    margin-top: 150px;
+margin-left: 180px;
+margin-bottom: 150px;
+    display: flex;
+}
+
+.button1{
+
+    border-radius: 25px;
+     color: white;
+      background-color: cornflowerblue;
+}
+
+.button1:hover{
+background-color: blue;
+
+}
+
+.flex4{
+    display: flex;
+align-items: center;
+padding: 150px;
+height: 220px;
+width: 80%;
+background-color: #8dc0d6;
+}
+
+.card5{
+display: flex;
+justify-content: space-between;
+height: 80%;
+width: 80%;
+border: 2px solid white;
+}
+
+.contant1{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.contant2{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+   
+}
+
+.contant3{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+  
+}
+
+.div5{height: 500px;
+width: 100%;
+
+
+}
+
+#price{
+display: flex;
+justify-content:space-around ;
+
+}
+
+.price{
+
+height: 340px;
+width: 200px;
+border: 2px silver solid ;
+text-align: center;
+
+}
+
+#margin1{
+margin-left: 70px;
+}
+
+.bold1{
+font-size: large;
+color: cornflowerblue;
+}
+
+.circle1{
+    width: 50px;
+height: 50px;
+border-radius: 50%;
+background-color:#8dc0d6;
+margin-left: 75px;
+}
+
+.b2n{
+border-radius: 35%;
+background-color:#8dc0d6;
+}
+
+.b2n:hover{
+background-color:cornflowerblue;
+
+}
+
+#blue{
+    color: white;
+background-color:deepskyblue;
+}
+
+#div6{
+
+height: 350px; 
+width: 100%;
+text-align: center;
+background-color: cornflowerblue;
+}
+
+.client{
+
+height: 250px;
+width: 48%;
+border: 2px solid gray;
+
+}
+
+#flex6{
+display: flex;
+justify-content: center;
+
+}
+
+#div7{
+    
+width: 100%;
+height: 500px;
+}
+
+.blog{
+    display: inline-block;
+width: 30%;
+height: 420px;
+border: 1px solid cornflowerblue;
+margin-left: 2%;
+margin-top: 20px;
+}
