@@ -1,4 +1,5 @@
 #div1{
+    flex-wrap: wrap;
 color: white;
 background-color: cornflowerblue;
 height:500px;
@@ -37,6 +38,7 @@ background-color:darkblue;
  }
 
 #div2{
+    flex-wrap: wrap;
 height: 300px;
 width: 100%;
 }
@@ -77,6 +79,7 @@ margin-left: 70px;
         
 
 #div3{
+    flex-wrap: wrap;
 height: 400PX;
 width: 100%;
 
@@ -109,6 +112,7 @@ background-color: blue;
 }
 
 .flex4{
+    flex-wrap: wrap;
     display: flex;
 align-items: center;
 padding: 150px;
@@ -146,7 +150,9 @@ border: 2px solid white;
   
 }
 
-.div5{height: 500px;
+.div5{ 
+    flex-wrap: wrap;
+    height: 500px;
 width: 100%;
 
 
@@ -201,6 +207,7 @@ background-color:deepskyblue;
 
 #div6{
 
+    flex-wrap: wrap;
 height: 350px; 
 width: 100%;
 text-align: center;
@@ -222,6 +229,8 @@ justify-content: center;
 }
 
 #div7{
+    display: flex;
+    flex-wrap: wrap;
     
 width: 100%;
 height: 500px;
